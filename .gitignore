@@ -1,7 +1,9 @@
 /team_data
 *.exe
+!data.exe
 *.obj
 *.pdb
 *.ilk
 *.o
 /.claude
+dtextc.txt
